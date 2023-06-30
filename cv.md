@@ -3,9 +3,13 @@
 Junior Frontend Developer
 
 #### CONTACT INFO
+
 __Address__: London, UK
+
 __Phone__: +447896530786
+
 __Email__: maiia.frontdev@gmail.com
+
 __GitHub__: UXNova
 
 ***
@@ -50,7 +54,7 @@ console.log (myFn(12, 40));
 ***
 
 #### EDUCATION
-#####COURSES
+##### COURSES
 * Completed courses in HTML, CSS, and JavaScript on CodeAcademy.
 * Completed a comprehensive graphic design course at CalArts, a renowned institution for arts and design education.
 
