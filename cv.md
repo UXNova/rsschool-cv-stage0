@@ -9,12 +9,12 @@ __Email__: maiia.frontdev@gmail.com
 __GitHub__: UXNova
 
 ***
-####ABOUT ME
+#### ABOUT ME
 
 I am a motivated and creative individual with a background in botanical illustration and graphic design. Recently, I have embarked on a journey to become a frontend developer, combining my passion for design and coding. With a keen eye for aesthetics and a solid foundation in visual communication, I strive to create visually stunning and user-friendly websites.
 ***
 
-####SKILLS
+#### SKILLS
 * HTML
 * CSS
 * Java Script (Basic)
@@ -25,7 +25,7 @@ I am a motivated and creative individual with a background in botanical illustra
   * Illustrator
 * Branding and Identity Design
 
-####CODE EXAMPLE
+#### CODE EXAMPLE
 ```javascript
 function myFn (a, b){
     let d 
@@ -37,7 +37,7 @@ function myFn (a, b){
 console.log (myFn(12, 40));
 ```
 ***
-####PROFESSIONAL EXPERIENCE
+#### PROFESSIONAL EXPERIENCE
 * Proficient in creating CVs and documents using Markdown, a lightweight markup language, ensuring clean and readable formatting.
 
 
@@ -49,12 +49,12 @@ console.log (myFn(12, 40));
 
 ***
 
-####EDUCATION
+#### EDUCATION
 #####COURSES
 * Completed courses in HTML, CSS, and JavaScript on CodeAcademy.
 * Completed a comprehensive graphic design course at CalArts, a renowned institution for arts and design education.
 
 ***
-####LANGUAGES
+#### LANGUAGES
 * Russian (native)
 * English (B1-B2)
